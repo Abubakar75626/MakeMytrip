@@ -1,0 +1,8 @@
+<ObjectInfo>
+	<home>
+		<loginButton  locator="xpath" value="//p[contains(text(),'Login')]"/>	
+		<email		locator="id"   value="username"/>
+		<password   locator="id"   value="password"/>
+		<login      locator="xpath" value="//button[@class='capText font16']/span[text()='Login']"/>
+	</home>
+</ObjectInfo>
